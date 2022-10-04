@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SSv2</string>
+    <string name="todo">TODO</string>
+    <string name="dbank">DBANK</string>
+    <string name="banking_and_finance">Banking and Finance</string>
+    <string name="username">Username</string>
+    <string name="tod">TOD</string>
+    <string name="hello_there_welcome_back">Hello there, Welcome Back</string>
+    <string name="sign_in_to_continue">Sign In to Continue</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="go">GO</string>
+    <string name="new_user_sign_up">New User? Sign Up</string>
+    <string name="welcome">Welcome</string>
+    <string name="signup_to_start_your_new_journey">SignUp to start your new Journey</string>
+    <string name="full_name">Full Name</string>
+    <string name="image3">TODO</string>
+    <string name="username2">Username</string>
+    <string name="email">Email</string>
+    <string name="phone_no">Phone No</string>
+    <string name="password2">Password</string>
+    <string name="go2">GO</string>
+    <string name="already_have_an_account_login">Already have an Account? Login</string>
+</resources>
